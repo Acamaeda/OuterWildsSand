@@ -1,0 +1,9 @@
+{
+	"name" : "CAVE_TWIN",
+	"removeChildren" : [
+		"SandSphere_Rising",
+		"Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthUnderground/Sector_FossilPath/Interactables_FossilPath/Prefab_HT_Sandfall",
+		"Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthUnderground/Sector_FossilPath/Interactables_FossilPath/Prefab_HT_Sandfall (1)",
+		"Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthUnderground/Sector_FossilPath/Interactables_FossilPath/Prefab_HT_Sandfall (2)"
+	]
+}

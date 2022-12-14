@@ -1,0 +1,6 @@
+{
+	"name" : "TOWER_TWIN",
+	"removeChildren" : [
+		"SandSphere_Draining"
+	]
+}
